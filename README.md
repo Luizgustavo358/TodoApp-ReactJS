@@ -39,4 +39,10 @@ npm run dev
 
 ## Curso da Udemy: 
 
-[link](https://www.udemy.com/course/react-redux-pt/)
+[Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/course/react-redux-pt/)
+
+Ministrado por: 
+- [@leonardomleitao](https://github.com/leonardomleitao)
+- [@cod3rcursos](https://github.com/cod3rcursos)
+
+Repositório do Projeto: [link](https://github.com/cod3rcursos/curso-react-native)
