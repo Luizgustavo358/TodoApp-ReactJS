@@ -23,6 +23,12 @@ export default (state = INITIAL_STATE, action) => {
                 description: action.payload
             }
 
+        case 'TODO_SEARCH':
+            return {
+                ...state,
+                list: action.payload.data
+            }
+
         default:
             return state
     }
